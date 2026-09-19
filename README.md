@@ -62,12 +62,11 @@ This section contains my day-by-day internship progress.
 | Day     | Work / Task                                            | Status      |
 | ------- | ------------------------------------------------------ | ----------- |
 | Day 01  | Internship orientation & development environment setup | ✅ Completed |
-| Day 02  | —                                                      | 🔄 Updating |
-| Day 03  | —                                                      | 🔄 Updating |
+| Day 02  | Learnt Operators in dart                               | ✅ Completed |
+| Day 03  | Learnt Conditional Statements in Dart                  | ✅ Completed |
 | Day 04  | —                                                      | 🔄 Updating |
 | Day 05  | —                                                      | 🔄 Updating |
 | ...     | ...                                                    | ...         |
-| Day 120 | Final Internship Work & Documentation                  | 🔄 Upcoming |
 
 > **This table will be continuously updated throughout the internship.**
 
