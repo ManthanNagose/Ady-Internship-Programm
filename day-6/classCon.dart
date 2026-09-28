@@ -1,6 +1,6 @@
 class User{
   //Common properties
-  String name ;
+  String name;
   String email;
   int age;
 
@@ -8,7 +8,7 @@ class User{
   //Default Constructor: Auto called when we create an object of the class. It is used to initialize the properties of the class.
   //ClassName(this.name, this.email, this.age.....this.commonProperty); //This is a default constructor which is used to initialize the properties of the class.
   
-  User(this.name, this.email, this.age); //This is a default constructor which is used to initialize the properties of the class.{
+  User(this.name, this.email, this.age); //This is a default constructor which is used to initialize the properties of the class.
 
   void greet(status){
     print("Hello $name, your email is $email and your age is $age. Your status is $status");

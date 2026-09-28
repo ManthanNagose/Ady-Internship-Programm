@@ -5,6 +5,10 @@ class User{
   void greet(){
     print("Hello $name");
   }
+
+  void Introduction(){
+    print("Hello $name, Your Email is $email");
+  }
 }
 void main(){
   User user1 =User();
@@ -16,6 +20,15 @@ void main(){
   user2.email = "doe@gmail.com";
 
   user1.greet();
+  user1.Introduction();
+  user2.Introduction();
   user2.greet();
+
+  var obj = User();
+  obj.name = "Mahi";
+  obj.email = "mahi@gmail.com";
+
+  obj.greet();
+  obj.Introduction();
 
 }
