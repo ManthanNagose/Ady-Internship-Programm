@@ -6,15 +6,15 @@ void main(){
 
   //var - it can store any type of data
   var username = "John Doe"; // Text : or "text" or 'text' or """text""" or '''text'''
-
   var age  = 12; //Numbers - directly store numbers
-
   print(username);
   print("My age is $age");
 
+  //String : used to store words or sentences
   String email = "abc@gmail.com"; //String - it can store only text
   print(email);
 
+  //Int is used to store integer or whole numbers in it
   int phoneNumber = 1234567890; //int - it can store only whole numbers
   print(phoneNumber);
 
