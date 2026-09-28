@@ -26,6 +26,17 @@ void main(){
   bool isLoggedIn = true;
   print(isLoggedIn);
 
+  //num : It suport or it is used for bot int value as well as float value
+  num val = 10;
+  print("Value of val is : $val");
+  val = 20.0;
+  print("Value of val2 is : $val");
+
+  //BigInt : It is used to store large value of Integer
+  BigInt value = BigInt.parse('90878985775554576523434678789');
+  print("Value of BigInt value is $value");
+
+
   //Dynamic - it can store any type of data and can change the type of data at runtime
   dynamic data = "Hello"; //String
   print("data is $data");
