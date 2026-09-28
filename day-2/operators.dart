@@ -18,8 +18,7 @@ void main() {
   print(10 % 3); // Output: 1
   print(13 % 2); // Output: 1
 
-  // If the left value is smaller than the right value, the remainder is
-  // the left value itself.
+  // If the left value is smaller than the right value, the remainder is the left value itself.
   print(1 % 3); // Output: 1
 
   print(2 % 13); // Output: 2
