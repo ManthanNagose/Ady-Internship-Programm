@@ -23,7 +23,5 @@ void main(){
   //Total Length of data in list : list_name.length;
   print(fruits.length); //5
 
-  fruits.
-
-
+  //ListName.method name
 }
