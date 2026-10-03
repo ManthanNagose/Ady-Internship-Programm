@@ -9,6 +9,8 @@ void main() {
   void sayHello() {
     //Body - Instrcution - Task
     print("Hello User");
+    int num = 10;
+    print("Value is $num");
   }
 
   sayHello(); //Callimg The Function - To perfom The Task
